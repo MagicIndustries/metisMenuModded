@@ -3,7 +3,6 @@
     "version": "0.0.3",
     "main": "dist/metisMenuModded.js",
     "ignore": [
-        "bower.json",
         "README.md"
     ]
 }

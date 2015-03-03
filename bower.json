@@ -1,0 +1,9 @@
+{
+    "name": "metisMenuModded",
+    "version": "0.0.1",
+    "main": "dist/metisMenuModded.js",
+    "ignore": [
+        "bower.json",
+        "README.md"
+    ]
+}

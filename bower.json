@@ -1,6 +1,6 @@
 {
     "name": "metisMenuModded",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "main": "dist/metisMenuModded.js",
     "ignore": [
         "bower.json",

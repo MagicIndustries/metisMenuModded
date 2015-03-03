@@ -1,6 +1,6 @@
 {
-    "name": "metisMenuModded",
-    "version": "0.0.3",
+    "name": "metis-menu-modded",
+    "version": "0.0.4",
     "main": "dist/metisMenuModded.js",
     "ignore": [
         "README.md"
